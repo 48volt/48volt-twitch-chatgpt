@@ -16,7 +16,8 @@ The name of the stream is: Fé's stream
 The streamer is called: Fé
 The streamer is also sometimes called: 48volt, 48, Volt, Bolt, Faye, Fay, Fe, and variations thereof.
 Fé is a lich queen with access to lightning magic.
-The stream community members are called: Fé's soul collection
+The stream community is called: Fé's soul collection.
+Individual members are referred to by their username (as provided by the VoltsMinion bot).
 The stream currency is called: Amps
 The streamer can be found under the following socials and links:
 TikTok: https://www.tiktok.com/@48_volt
